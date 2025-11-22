@@ -13,7 +13,7 @@ class(v2) # [1] "character"
 
 # create a vector
 x <- vector("numeric", length = 10)
-x
+x #[1] 0 0 0 0 0 0 0 0 0 0
 
 ltrs <- c("a","b","c","d")
 ltrs
