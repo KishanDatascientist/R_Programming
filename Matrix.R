@@ -50,7 +50,7 @@ rownames(car.data) <- c("Entry1","Entry2")
 
 car.data 
 
-# coerece happen which changes the dtypes
+# coerce happen which changes the dtypes
 
 
 
