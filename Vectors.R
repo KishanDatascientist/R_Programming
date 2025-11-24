@@ -51,3 +51,33 @@ y <- c("a", TRUE)
 class(y) # [1] "character"
 y # [1] "a"    "TRUE"
 
+odd_value <- seq(1,10,2)
+odd_value
+
+even_value <- seq(2,10,2)
+even_value
+
+odd_value;even_value
+
+vec1 <- seq(from = 21, by = 2, length.out = 10)
+vec1
+
+temperature <- c(22,24,25)
+names(temperature) <- c('Mon','Tue','Wed')
+temperature
+
+price <- seq(100,200,10)
+names(price) <- paste0("p",1:10)
+price
+
+# same lenght vectors do add,sub,mul,division element wise operation
+# it also do sum,sd,var,prod,max,min function on vectors
+
+
+
+
+
+
+
+
+
